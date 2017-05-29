@@ -1,2 +1,0 @@
-# ADF
-AngularDirectivesFundamentals
